@@ -130,7 +130,7 @@ body {
 /* Start Slider */
 .slider {
   position: absolute;
-  top: 40%;
+  top: 320px;
   left: 50%;
   transform: translate(-50%, -50%);
 }
@@ -190,7 +190,7 @@ body {
 
   .container .slider {
     position: relative;
-    top: 52%;
+    top: 400px;
     left: 120%;
   }
 }
